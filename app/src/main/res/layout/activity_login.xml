@@ -15,7 +15,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:background="#6f6c67"
         android:padding="10dip">
 
         <TableRow
@@ -69,7 +68,6 @@
                 android:id="@+id/teacher_sp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="0dip"
                 android:layout_weight="2" />
         </TableRow>
     </TableLayout>
